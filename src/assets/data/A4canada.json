@@ -1,0 +1,94 @@
+{
+   "personal" : {
+		"myname" : "Willem Wantenaar",
+		"myid" : 991512290,
+		"mylogin" : "wantenaw",
+		"myimage" : "WillemWantenaar.jpg"
+	 },
+	 "country": {
+      "name": "Canada",
+      "background": "Land of vast distances and rich natural resources, Canada became a\nself-governing dominion in 1867 while retaining ties to the British\ncrown. Economically and technologically the nation has developed in\nparallel with the US, its neighbor to the south across an unfortified\nborder. Canada faces the political challenges of meeting public demands\nfor quality improvements in health care and education services, as well\nas responding to the particular concerns of predominantly francophone\nQuebec. Canada also aims to develop its diverse energy resources while\nmaintaining its commitment to the environment.",
+			"flag" : "canada.jpg"
+		},
+		"division": 
+		[
+		 {
+				"capital": "Edmonton",
+				"type": "province",
+				"name": "Alberta",
+				"pic": "alberta.png"
+		 },
+		 {
+				"capital": "Victoria",
+				"type": "province",
+				"name": "British Columbia",
+				"pic": "britishcolumbia.png"
+		 },
+		 {
+				"capital": "Winnepeg",
+				"type": "province",
+				"name": "Manitoba",
+				"pic": "manitoba.png"
+		 },
+		 {
+				"capital": "Fredericton",
+				"type": "province",
+				"name": "New Brunswick",
+				"pic": "newbrunswick.png"
+		 },
+		 {
+				"capital": "St. John's",
+				"type": "province",
+				"name": "Newfoundland and Labrador",
+				"pic": "newfoundland.png"
+		 },
+		 {
+				"capital": "Yellowknife",
+				"type": "territory",
+				"name": "Northwest Territories",
+				"pic": "nwterritory.png"
+		 },
+		 {
+				"capital": "Halifax",
+				"type": "province",
+				"name": "Nova Scotia",
+				"pic": "novascotia.png"
+		 },
+		 {
+				"capital": "Iqualuit",
+				"type": "territory",
+				"name": "Nunavut",
+				"pic": "nunavut.png"
+		 },
+		 {
+				"capital": "Toronto",
+				"type": "province",
+				"name": "Ontario",
+				"pic": "ontario.png"
+		 },
+		 {
+				"capital": "Charlottetown",
+				"type": "province",
+				"name": "Prince Edward Island",
+				"pic": "pei.png"
+		 },
+		 {
+				"capital": "Quebec City",
+				"type": "province",
+				"name": "Quebec",
+				"pic": "quebec.png"
+		 },
+		 {
+				"capital": "Regina",
+				"type": "province",
+				"name": "Saskatchewan",
+				"pic": "saskatchewan.png"
+		 },
+		 {
+				"capital": "Whitehorse",
+				"type": "territory",
+				"name": "Yukon Territory",
+				"pic": "yukon.png"
+		 }
+	]
+}

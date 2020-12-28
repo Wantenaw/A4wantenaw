@@ -1,0 +1,7 @@
+Hello there,
+I would like to apologize for sending my assignment 4 as a zip file.
+I have to submit my files this way I cannot get a build with no warnings, although my program works as
+required. I have spent a few hours with this problem but I cannot seem to get a build that I can host on
+dev.fast.sheridan.
+I'm sorry for any inconvenience I may have caused,
+Willem Wantenaar

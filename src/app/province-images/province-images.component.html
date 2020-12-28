@@ -1,0 +1,12 @@
+
+<h4>Provincial Flags</h4>
+
+<table id="flagTable">
+    <tr>
+        <th>Name</th><th>Flag</th>
+    </tr>
+    <tr *ngFor="let division of division">
+        <td><strong>{{division.name}}</strong></td>
+<td><img src="../../assets/images/{{division.pic}}" /></td>
+    </tr>
+</table>

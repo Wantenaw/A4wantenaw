@@ -1,0 +1,13 @@
+
+<h4>Provincial Information</h4>
+
+<table id="provinceTable">
+    <tr>
+        <th>Capital</th><th>Region Type</th><th>Name</th>
+    </tr>
+    <tr *ngFor="let division of division">
+        <td>{{division.capital}}</td>
+        <td>{{division.type | titlecase}}</td>
+        <td>{{division.name}}</td>
+    </tr>
+</table>

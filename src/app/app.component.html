@@ -1,0 +1,25 @@
+<h3 [ngStyle]=" { } "> {{ country.name }} //</h3>
+
+<mat-tab-group mat-stretch-tabs class="example-stretched-tabs mat-elevation-z4" [ngStyle]="{textAlign: 'center'}">
+  <mat-tab label="Background Info">
+    <app-background-info [country]='country'>
+      
+    
+    </app-background-info>
+  </mat-tab>
+  <mat-tab label="Province Capitals">
+    <app-province-capitals [division]='division'>
+      
+    </app-province-capitals>
+  </mat-tab>
+  <mat-tab label="Province Images">
+    <app-province-images [division]='division'>
+
+    </app-province-images>
+  </mat-tab>
+  <mat-tab label="Personal Info">
+    <app-personal-info [personal]='personal'>
+      
+    </app-personal-info>
+  </mat-tab>
+</mat-tab-group>
